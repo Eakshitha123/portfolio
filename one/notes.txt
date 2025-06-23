@@ -1,0 +1,11 @@
+1. javascript is dynamically typed
+
+ECMAScript (often written as ES) 
+is the official standard that defines how JavaScript should work.
+
+ECMAScript = the specification (the rules)
+
+JavaScript = the language that implements those rules
+
+Think of ECMAScript as the blueprint,
+ and JavaScript as the actual house built from that blueprint.
