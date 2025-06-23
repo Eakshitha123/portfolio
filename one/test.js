@@ -13,9 +13,18 @@
 
 // console.log(num)
 
-let score = "33"
-console.log(typeof(score))
+// let score = "33"
+// console.log(typeof(score))
 
-let valueInNumber = Number(23)
-console.log(valueInNumber)
-console.log(typeof(valueInNumber))
+// let valueInNumber = Number(23)
+// console.log(valueInNumber)
+// console.log(typeof(valueInNumber))
+
+let num = 678
+console.log(typeof num)
+
+newnum = Boolean(num)
+console.log(typeof newnum)
+
+console.log(newnum)
+console.log(typeof NaN)
