@@ -113,3 +113,40 @@
 // console.log(Object.getOwnPropertyNames(Math));
 
 
+// console.log((Math.random()*10).toPrecision(1))
+
+
+///Dates and time
+
+//date is a built in class
+
+// let mydate = new Date()
+// console.log(mydate.toString())
+// console.log(mydate.toLocaleString())
+// console.log(mydate.getFullYear())
+// console.log(typeof mydate)
+
+
+// let mynewdate = new Date(2024,0,23)
+// console.log(mynewdate.toDateString())
+
+// let mynewdate1 = new Date("2023-01-14")
+// let mynewdate3 = new Date("23-07-2025")
+// console.log(mynewdate1.toDateString())
+
+// let mytimestamp = Date.now()
+
+// console.log(mytimestamp)
+// console.log(mytimestamp/1000)
+
+// Date.now() returns the current timestamp — the
+//  number of milliseconds since January 1, 1970, 
+//  00:00:00 UTC (the Unix Epoch).
+
+// let date = new Date();
+// console.log(date.toLocaleString('sa-IN'));
+
+// let date = new Date();
+// console.log(date.toLocaleString('hi-IN'));
+
+

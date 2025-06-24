@@ -21,3 +21,12 @@ derived : object,function,array
 
 Math is a built in object for utility functions
 like max ,min,safe inetger all the stuff
+
+Math.round()
+.floor()
+.ceil()
+
+
+// (Math.floor(Math.random()* (max-min+1)) + min) 
+
+to geenarte a random value in the given range max to min
