@@ -30,3 +30,11 @@ Math.round()
 // (Math.floor(Math.random()* (max-min+1)) + min) 
 
 to geenarte a random value in the given range max to min
+
+
+
+slice will give a part // splice it removes that part in the array
+
+in slice the (a,b) b is excludes
+
+in splice it is included

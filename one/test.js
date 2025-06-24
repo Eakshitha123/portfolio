@@ -165,8 +165,8 @@
 // const arr = new Array(1,2,4)
 
 
-let arr = [100,200,2,1,5,7,9];
-
+// let arr = [100,200,2,1,5,7,9];
+// let arr2 = ["i","o"]
 // console.log(arr);
 
 // arr.push(null);
@@ -180,5 +180,18 @@ let arr = [100,200,2,1,5,7,9];
 
 //  console.log(arr)
 
-console.log(arr.includes(200))
+// console.log(arr.includes(200))
+// console.log(arr.indexOf(67))
+
+// console.log(arr.join(arr2))
+
+
+// let arr1 = ["hello","hi"]
+// let arr2 = ["pop","push"]
+// let arr3 = arr1.concat(arr2)
+// console.log(arr3) //[ 'hello', 'hi', 'pop', 'push' ]
+
+
+// arr2.push(arr1)
+// console.log(arr2) //[ 'pop', 'push', [ 'hello', 'hi' ] ]
 
