@@ -150,3 +150,35 @@
 // console.log(date.toLocaleString('hi-IN'));
 
 
+// const arr = [1,2,3,"hello"];
+
+// console.log(arr);
+
+// console.log(arr.length);
+
+// for(let i=0;i<arr.length;i++)
+// {
+//     console.log(arr[i])
+// }
+
+
+// const arr = new Array(1,2,4)
+
+
+let arr = [100,200,2,1,5,7,9];
+
+// console.log(arr);
+
+// arr.push(null);
+// arr.push(undefined);
+
+// arr.pop()
+
+// arr.shift()
+//  console.log(arr)
+// arr.unshift(67) // adds elemt at first
+
+//  console.log(arr)
+
+console.log(arr.includes(200))
+
