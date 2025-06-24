@@ -86,5 +86,30 @@
 // console.log(undefined<0)
 
 
-let a = 9
-console.log(typeof a)
+// let a = 9
+// console.log(typeof a)
+
+// const score = 400;
+// console.log(score)
+
+
+// const balance = new Number(score)
+// console.log(balance)
+
+// console.log(balance.toString())
+// console.log(balance.toString().length) //3
+// console.log(balance.toFixed(3)) // 400.000
+
+// console.log(23.98674646.toPrecision(4))
+// console.log(23.98674646.toPrecision(1))
+// console.log(255553.98674646.toPrecision(3))
+// console.log(255553.98674646.toFixed(3)) // works after the decimal part
+
+// console.log(Number.EPSILON)
+
+
+// console.log(Math);
+
+// console.log(Object.getOwnPropertyNames(Math));
+
+

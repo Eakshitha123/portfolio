@@ -8,4 +8,16 @@ ECMAScript = the specification (the rules)
 JavaScript = the language that implements those rules
 
 Think of ECMAScript as the blueprint,
- and JavaScript as the actual house built from that blueprint.
+and JavaScript as the actual house built from that blueprint.
+
+
+//maths library comes by default in javascript
+
+null is an object in JavaScript
+
+data types : number,String,symbol,boolean,null,undefined,BigInt
+derived : object,function,array
+
+
+Math is a built in object for utility functions
+like max ,min,safe inetger all the stuff
