@@ -195,3 +195,32 @@
 // arr2.push(arr1)
 // console.log(arr2) //[ 'pop', 'push', [ 'hello', 'hi' ] ]
 
+//functions
+
+// function chai()
+// {
+//     console.log("chai ready");
+//    return 5
+// }
+
+
+// console.log(chai) // [Function : chai]
+// chai()
+// console.log(chai())  // prints undefined bcoz it doesnt return anything
+
+
+// function addtwonumbers(num1,num2)
+// {
+//     console.log(num1+num2)
+// }
+
+// addtwonumbers(undefined,null)
+// addtwonumbers("2",3)
+// addtwonumbers(2,"3")
+// addtwonumbers(2,"678abs")
+
+
+//arguments the values we are passing (3,5)
+
+//parameter are the denied in function (num1,num2) 
+
