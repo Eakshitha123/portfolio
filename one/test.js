@@ -8,10 +8,28 @@
 
 // {
 //     var num = 345
+//     console.log(num) //345
+// }
+
+// console.log(num) //345
+
+// let num = 123
+
+// {
+//     let num = 345
+//     console.log(num) //345
+// }
+
+// console.log(num) //123
+// const num = 123
+
+// {
+//     const num = 345
 //     console.log(num)
 // }
 
 // console.log(num)
+
 
 // let score = "33"
 // console.log(typeof(score))
@@ -181,7 +199,7 @@
 //  console.log(arr)
 
 // console.log(arr.includes(200))
-// console.log(arr.indexOf(67))
+// console.log(arr.indexOf(7)) return index if exist othrwise -1
 
 // console.log(arr.join(arr2))
 
@@ -224,3 +242,41 @@
 
 //parameter are the denied in function (num1,num2) 
 
+
+// function hello(val = 90)
+// {
+//     console.log(val)
+// }
+
+// hello() //default value
+
+
+// function caluclateprice(val1,val2,...num1)
+// {
+//     return val1
+// }
+
+// console.log(caluclateprice(5,9,900,768))
+// console.log(caluclateprice())
+
+// spred operator rest operator
+
+
+// A closure in JavaScript is
+//  when a function remembers and 
+//  has access to variables from its outer (enclosing) \
+//  function, even after that outer function has finished executing.
+
+
+
+//hoistingg 
+
+// console.log(this)
+
+// function chai()
+// {
+//     let name  = "eakshitha"
+//     console.log(this.name)
+// } //print undefined this cant be used with functions
+
+// chai()
