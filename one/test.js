@@ -330,6 +330,62 @@
 //     console.log(item.name,item.age)
 
 // })
-
+//for each val,index,arr
 // it will not retuen any value
+
+// const nums = [0,1,2,3,4,5,6,7,8,9,10]
+// const values = nums.filter((item)=> item>2)
+// console.log(values)
+
+// even = nums.filter((item)=> item%2 ==0)
+// console.log(even)
+
+// console.log(nums)
+
+
+ //const values = nums.filter((item)=>{
+    // return item>2
+ // } )  // if want to use curly braces then go withh retuen statement therwise [] array print sbcoz scope changes
+
+
+//  const newnums = []
+//  nums.forEach((item)=>{
+//     if(item>2)
+//     {
+//         newnums.push(item)
+//     }
+//  })
+
+//  console.log(newnums)
+
+//  console.log(nums.filter((item)=>
+//       item>2
+//  ))
+
+// let values = nums.map((num)=>
+//    num+10
+// )
+
+// console.log(values)
+
+// In JavaScript, filter and map are 
+// two fundamental array methods used 
+// for manipulating and transforming data. Both 
+// methods iterate over an array and 
+// return a new array, without modifying the original.
+
+
+
+
+// filter() is used for selecting a subset
+//  of elements based on a condition,
+//  while map() is used for
+//   transforming each element into a new value.
+
+
+//can be use chaining .map().map().filter() 
+
+
+//for of vs for each 
+//forEach loop is used its an arraya methos mainly used when we use for of any iterayble things
 
