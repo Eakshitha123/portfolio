@@ -280,3 +280,56 @@
 // } //print undefined this cant be used with functions
 
 // chai()
+
+//  const arr  = ["eakshitha","cindrella","disney"]
+
+// const arr2 = [1,2,3]
+// arr.forEach((item,index,arr)=>{
+//     console.log(item,index,arr)
+//     // console.log(index)
+// })
+
+
+// arr2.forEach(function (val){
+//     val+=1
+// })
+
+// console.log(arr2)
+
+// function hello(){
+//     console.log("hi")
+// }
+
+// hello();
+
+
+// hello = (name)=>
+// {
+//    console.log(name)
+// }
+
+// hello("eakshitha")
+
+
+// const arr = [
+//     {
+//         name : "eakshitha",
+//         age: 34
+//     },
+//     {
+//         name : "rohitha",
+//         age : 89
+//     },
+//     {
+//         name : "krishan",
+//         age : 45
+//     }
+// ]
+
+// arr.forEach((item)=>{
+//     console.log(item.name,item.age)
+
+// })
+
+// it will not retuen any value
+
