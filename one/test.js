@@ -427,4 +427,53 @@
 //     console.log("error occured")
 // })
 
-const promise  = new Pr
+// const promise5 = new Promise((resolve,reject)=>{
+//    setTimeout(()=>{
+//      let error = true
+//      if(!error)
+//      {
+//        resolve({username : "eakshitha",password : "4567"})
+//        //on resolved then will execute
+//      }else{
+//       reject("error occured something went wrong")
+//       // on error catch will excute on passing the error 
+//      }
+//    },1000)
+// })
+
+
+// //  const arrow = ()=>{
+
+// // }
+
+// // async function consumepromisefive(){
+// //    const response = await promise5
+// //    console.log(response)
+
+// // }
+
+
+
+
+// async function consumepromisefive(){
+//   try{
+//     const response = await promise5
+//    console.log(response)
+
+//   }
+//   catch(error)
+//   {
+//      console.log(error)
+//   }
+// }
+
+// consumepromisefive()
+// // promise5.then((obj)=>{
+// //    console.log(obj.username)
+// //    console.log(obj.password)
+// // }).catch((error)=>{
+// //     console.log(error)
+// // })
+
+
+con
