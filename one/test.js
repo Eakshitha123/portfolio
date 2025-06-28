@@ -389,3 +389,42 @@
 //for of vs for each 
 //forEach loop is used its an arraya methos mainly used when we use for of any iterayble things
 
+
+
+// const fun = new Promise((resolve,reject)=>{
+//    setTimeout(()=>{
+//      console.log("async function 2")
+//      resolve()
+//    },1000)
+// })
+
+// fun.then(()=>{
+//     console.log("promise resolved")
+// })
+
+
+
+// const fun = new Promise((resolve,reject)=>{
+//    setTimeout(()=>{
+//    let error = false
+//      if(!error){
+//       resolve({username :"eakshitha",age :"90"})
+//      }
+//      else{
+//        reject("error : something went wrong")
+//      }
+//    //   console.log("async function 2")
+//    //   resolve()
+//    },1000)
+// })
+
+// fun.then((obj)=>{
+//     console.log("promise resolved")
+//     console.log(obj.username)
+//     console.log(obj.age)
+// }).catch((str)=>{
+//     console.log(str)
+//     console.log("error occured")
+// })
+
+const promise  = new Pr
