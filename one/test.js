@@ -476,4 +476,52 @@
 // // })
 
 
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="me">click me </button>
+    <script>
+
+        let el2 = document.getElementById("me")
+        el2.addEventListener("click",()=>{
+        let el = document.createElement("p");
+        el.textContent = "hello";
+        el.setAttribute("id","myid");
+        document.body.append(el);
+        })
+        const onlyElements = document.body.children; // returns an HTMLCollection
+console.log(onlyElements); // only shows <div>, <p>, etc.
+const allNodes = document.body.childNodes; // returns a NodeList
+console.log(allNodes); // might include text nodes (like spaces) and comment nodes too
+
+       
+    </script>
+</body>
+</html>
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="me"> hello</h1>
+    <button id="stop">stop</button>
+    <script>
+     setInterval(()=>{
+        console.log("hello")
+     },3000)
+
+     el = document.getElementById(stop)
+     el.addEventListener()
+    </script>
+</body>
+
 con
